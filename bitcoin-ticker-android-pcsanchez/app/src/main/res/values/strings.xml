@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Am I Rich?</string>
+    <string name="label_default_text">304.74</string>
+    <string name="label_error_text">Error</string>
+    <string name="base">Base Currency</string>
+    <string name="imageview_desc">Bitcoin Logo</string>
+
+    <string-array name="currency_array">
+        <item>AUD</item>
+        <item>BRL</item>
+        <item>CAD</item>
+        <item>CNY</item>
+        <item>EUR</item>
+        <item>GBP</item>
+        <item>HKD</item>
+        <item>JPY</item>
+        <item>PLN</item>
+        <item>RUB</item>
+        <item>SEK</item>
+        <item>USD</item>
+        <item>ZAR</item>
+    </string-array>
+
+
+</resources>
